@@ -139,6 +139,7 @@ pyparsing==3.0.9
 pyrsistent==0.19.3
 PySimpleGUI==4.60.5
 PySocks==1.7.1
+pywin32==306
 pytest==7.3.1
 pytest-asyncio==0.21.0
 pytest-benchmark==4.0.0
@@ -146,6 +147,7 @@ pytest-cov==4.0.0
 pytest-integration==0.2.3
 pytest-mock==3.10.0
 python-dateutil==2.8.2
+pywin32==306
 python-dotenv==1.0.0
 python-json-logger==2.0.7
 python-twitter==3.5
